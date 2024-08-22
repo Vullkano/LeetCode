@@ -40,4 +40,8 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Vullkano/LeetCode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Vullkano/LeetCode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->

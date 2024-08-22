@@ -23,6 +23,7 @@ A collection of LeetCode problems and my solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Vullkano/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Vullkano/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Vullkano/LeetCode/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vullkano/LeetCode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Vullkano/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

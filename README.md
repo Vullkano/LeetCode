@@ -7,6 +7,7 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vullkano/LeetCode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Vullkano/LeetCode/tree/master/0027-remove-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -44,4 +45,8 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/Vullkano/LeetCode/tree/master/0476-number-complement) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Vullkano/LeetCode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->

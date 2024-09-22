@@ -21,6 +21,7 @@ A collection of LeetCode problems and my solutions
 | [0009-palindrome-number](https://github.com/Vullkano/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vullkano/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Vullkano/LeetCode/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/Vullkano/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vullkano/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Vullkano/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

@@ -9,6 +9,7 @@ A collection of LeetCode problems and my solutions
 | [0001-two-sum](https://github.com/Vullkano/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vullkano/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vullkano/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Vullkano/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode problems and my solutions
 | [0009-palindrome-number](https://github.com/Vullkano/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Vullkano/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Vullkano/LeetCode/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/Vullkano/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Vullkano/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |

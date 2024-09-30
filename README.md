@@ -23,6 +23,7 @@ A collection of LeetCode problems and my solutions
 | [0013-roman-to-integer](https://github.com/Vullkano/LeetCode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Vullkano/LeetCode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/Vullkano/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Vullkano/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Vullkano/LeetCode/tree/master/0069-sqrtx) |
 ## String
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode problems and my solutions
 | [0014-longest-common-prefix](https://github.com/Vullkano/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Vullkano/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vullkano/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Vullkano/LeetCode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Vullkano/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Vullkano/LeetCode/tree/master/0067-add-binary) |
 | [0476-number-complement](https://github.com/Vullkano/LeetCode/tree/master/0476-number-complement) |
 ## Two Pointers
 |  |
@@ -68,4 +71,8 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vullkano/LeetCode/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Vullkano/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->

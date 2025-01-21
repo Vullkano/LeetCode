@@ -10,6 +10,7 @@ A collection of LeetCode problems and my solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vullkano/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vullkano/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Vullkano/LeetCode/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Vullkano/LeetCode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vullkano/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Vullkano/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

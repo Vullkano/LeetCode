@@ -7,6 +7,7 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vullkano/LeetCode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vullkano/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vullkano/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vullkano/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Vullkano/LeetCode/tree/master/0066-plus-one) |
@@ -76,6 +77,7 @@ A collection of LeetCode problems and my solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vullkano/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Vullkano/LeetCode/tree/master/0069-sqrtx) |
 ## Simulation
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode problems and my solutions
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Vullkano/LeetCode/tree/master/0118-pascals-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Vullkano/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
